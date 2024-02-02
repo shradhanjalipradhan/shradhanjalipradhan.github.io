@@ -4,7 +4,7 @@ author:
   bio: "AI/ML Engineer with an MSc in Applied Data Analytics from Boston University. Focused on machine learning models, data quality, and predictive analytics."
   location: United States
   
-logo: https://github.com/shradhanjalipradhan/shradhanjalipradhan.github.io/blob/main/My_pic.jpg  # Make sure you have an 'assets' folder in your repo with 'My_pic.jpg' in it.
+logo: My_pic.jpg  # Make sure you have an 'assets' folder in your repo with 'My_pic.jpg' in it.
 url: "https://github.com/shradhanjalipradhan" # replace with your actual GitHub Pages URL if different
 permalink: "/:title/"
 theme: minima
