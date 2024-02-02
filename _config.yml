@@ -5,7 +5,9 @@ logo: /assets/My_pic.png
 description: "Accomplished MLOps and Machine Learning professional with a passion for innovation and impact."
 url: "https://github.com/sidharthkumarpradhan" # replace with your GitHub Pages URL
 permalink: "/:title/"
-theme: jekyll-theme-minimal
+theme: minima
+plugins:
+  - jekyll-feed
 
 author:
   name: Sidharth Kumar Pradhan
