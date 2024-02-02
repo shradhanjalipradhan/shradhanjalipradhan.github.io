@@ -7,28 +7,13 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g., /blog
 url: "http://shradhanjalipradhan.github.io" # the base hostname & protocol for your site, e.g., http://example.com
 twitter_username: Shradha1405
-github_username:  https://github.com/shradhanjalipradhan
-linkedin_username: https://www.linkedin.com/in/shradhanjalipradhan/
+github_username:  shradhanjalipradhan
+linkedin_username: shradhanjalipradhan
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
-
-# Include into your site.
-include:
-  - _data
-  - _pages
-
-# Exclude from your site
-exclude:
-  - README.md
-  - LICENSE
-  - node_modules/
-  - package.json
-  - package-lock.json
-  - Gemfile
-  - Gemfile.lock
 
 # Optional: Google Analytics
 # google_analytics: Your-Google-Analytics-ID
@@ -66,4 +51,4 @@ education:
 projects:
   - name: Predicting a New User’s First Travel Destination on AirBnB
     details: >-
-      Developed machine learning models to predict new users' first booking destinations on Airbnb, enhancing user experience and platform engagement.
+      Developed machine learning models to predict new user
