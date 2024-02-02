@@ -1,10 +1,4 @@
-# _config.yml
-author:
-  name: SHRADHANJALI PRADHAN
-  
-logo: My_pic.jpg  # Make sure you have an 'assets' folder in your repo with 'My_pic.jpg' in it.
-url: "https://github.com/shradhanjalipradhan" # replace with your actual GitHub Pages URL if different
-permalink: "/:title/"
+ # replace with your actual GitHub Pages URL if different
 theme: minima
 plugins:
   - jekyll-feed
