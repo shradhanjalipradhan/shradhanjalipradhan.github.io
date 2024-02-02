@@ -1,18 +1,15 @@
 # _config.yml
-
-title: "Shradhanjali Pradhan"
-logo: My_pic.jpg  # Make sure you have an 'assets' folder in your repo with 'My_pic.jpg' in it.
-description: "AI/ML Engineer | MSc in Applied Data Analytics | Passionate about AI advancements and data-driven solutions."
+author:
+  name: SHRADHANJALI PRADHAN
+  bio: "AI/ML Engineer with an MSc in Applied Data Analytics from Boston University. Focused on machine learning models, data quality, and predictive analytics."
+  location: United States
+  
+logo: https://github.com/shradhanjalipradhan/shradhanjalipradhan.github.io/blob/main/My_pic.jpg  # Make sure you have an 'assets' folder in your repo with 'My_pic.jpg' in it.
 url: "https://github.com/shradhanjalipradhan" # replace with your actual GitHub Pages URL if different
 permalink: "/:title/"
 theme: minima
 plugins:
   - jekyll-feed
-
-author:
-  name: Shradhanjali Pradhan
-  bio: "AI/ML Engineer with an MSc in Applied Data Analytics from Boston University. Focused on machine learning models, data quality, and predictive analytics."
-  location: United States
 
 social:
   - title: "GitHub"
@@ -21,6 +18,5 @@ social:
     url: "https://www.linkedin.com/in/shradhanjalipradhan"
   - title: "Twitter"
     url: "https://twitter.com/Shradha1405"
-  # Add more social links as needed
 
 email: "edu.shradhanjali@gmail.com"
