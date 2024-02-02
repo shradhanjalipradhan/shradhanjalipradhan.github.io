@@ -1,5 +1,3 @@
-# Shradhanjali Pradhan
-
 Welcome to my professional GitHub portfolio. I am Shradhanjali Pradhan, an AI/ML Engineer with a Master of Science in Applied Data Analytics from Boston University. This portfolio is a showcase of my work, projects, and the skills I've honed in the field of AI and Machine Learning.
 
 ## About Me
