@@ -1,7 +1,7 @@
 # _config.yml
 
 title: "Shradhanjali Pradhan"
-logo: /assets/My_pic.png
+logo: assets/My_pic.jpg
 description: "Accomplished MLOps and Machine Learning professional with a passion for innovation and impact."
 url: "https://github.com/sidharthkumarpradhan" # replace with your GitHub Pages URL
 permalink: "/:title/"
