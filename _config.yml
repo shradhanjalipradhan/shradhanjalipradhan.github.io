@@ -1,0 +1,70 @@
+# Site settings
+title: Shradhanjali Pradhan
+logo: /assets/img/headshot_circle.png
+show_downloads: true
+email: edu.shradhanjali@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Welcome to my professional portfolio. I am an AI/ML Engineer with an MSc in Applied Data Analytics from Boston University, passionate about AI advancements and data-driven solutions.
+baseurl: "" # the subpath of your site, e.g., /blog
+url: "http://shradhanjalipradhan.github.io" # the base hostname & protocol for your site, e.g., http://example.com
+twitter_username: Shradha1405
+github_username:  https://github.com/shradhanjalipradhan
+linkedin_username: https://www.linkedin.com/in/shradhanjalipradhan/
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+
+# Include into your site.
+include:
+  - _data
+  - _pages
+
+# Exclude from your site
+exclude:
+  - README.md
+  - LICENSE
+  - node_modules/
+  - package.json
+  - package-lock.json
+  - Gemfile
+  - Gemfile.lock
+
+# Optional: Google Analytics
+# google_analytics: Your-Google-Analytics-ID
+
+# Skills section
+skills:
+  - Python
+  - R
+  - Machine Learning
+  - Data Analysis
+  - DevOps
+
+# Experience section
+experience:
+  - company: Steradian Bhubaneswar
+    position: AI/ML Engineer
+    duration: Nov 2022 – Mar 2023
+    details: >-
+      Improved data quality for medical datasets, optimized IoT data analysis,
+      and led the development of a machine learning-based recommendation engine.
+  - company: Remotecare Chennai
+    position: Data Analyst Intern
+    duration: July 2022 – Nov 2022
+    details: >-
+      Implemented ML models for customer churn prediction and sales forecasting,
+      enhancing predictive analytics capabilities.
+
+# Education section
+education:
+  - degree: MSc in Applied Data Analytics
+    institution: Boston University Massachusetts
+    graduation_year: 2024
+
+# Projects section
+projects:
+  - name: Predicting a New User’s First Travel Destination on AirBnB
+    details: >-
+      Developed machine learning models to predict new users' first booking destinations on Airbnb, enhancing user experience and platform engagement.
