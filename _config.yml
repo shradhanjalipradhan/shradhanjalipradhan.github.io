@@ -1,26 +1,26 @@
 # _config.yml
 
 title: "Shradhanjali Pradhan"
-logo: assets/My_pic.jpg
-description: "Accomplished MLOps and Machine Learning professional with a passion for innovation and impact."
-url: "https://github.com/sidharthkumarpradhan" # replace with your GitHub Pages URL
+logo: assets/My_pic.jpg  # Make sure you have an 'assets' folder in your repo with 'My_pic.jpg' in it.
+description: "AI/ML Engineer | MSc in Applied Data Analytics | Passionate about AI advancements and data-driven solutions."
+url: "https://github.com/shradhanjalipradhan" # replace with your actual GitHub Pages URL if different
 permalink: "/:title/"
 theme: minima
 plugins:
   - jekyll-feed
 
 author:
-  name: Sidharth Kumar Pradhan
-  bio: "Accomplished MLOps professional with 4+ years of experience. Committed to democratizing the AI field and revolutionizing its impact."
-  location: India
+  name: Shradhanjali Pradhan
+  bio: "AI/ML Engineer with an MSc in Applied Data Analytics from Boston University. Focused on machine learning models, data quality, and predictive analytics."
+  location: United States
 
 social:
   - title: "GitHub"
-    url: "https://github.com/sidharthkumarpradhan"
+    url: "https://github.com/shradhanjalipradhan"
   - title: "LinkedIn"
-    url: "https://www.linkedin.com/in/sidharthkumarpradhan"
-  - title: "Website"
-    url: "www.sidharthkumarpradhan.github.io"
+    url: "https://www.linkedin.com/in/shradhanjalipradhan"
+  - title: "Twitter"
+    url: "https://twitter.com/Shradha1405"
   # Add more social links as needed
 
-email: "edu.sidharth@gmail.com"
+email: "edu.shradhanjali@gmail.com"
