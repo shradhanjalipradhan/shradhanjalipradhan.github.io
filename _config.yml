@@ -1,5 +1,7 @@
 title:   SHRADHANJALI PRADHAN
-#logo: /assets/My_pic.jpg
+logo: /assets/My_pic.jpg
 #description: 
 show_downloads: true
-theme: jekyll-theme-minimal
+theme: minima
+plugins:
+  - jekyll-feed
