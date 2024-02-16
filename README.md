@@ -2,22 +2,10 @@
 
 I am passionate about leveraging artificial intelligence to drive innovation and make AI accessible to all. With a strong background in data analysis and a drive for continuous improvement, I aim to contribute to technological advancements and ethical AI development.
 
-- **Location:** United States
-- **Email:** [edu.shradhanjali@gmail.com](mailto:edu.shradhanjali@gmail.com)
-- **Twitter:** [@Shradha1405](https://twitter.com/Shradha1405)
-- **LinkedIn:** [Shradhanjali Pradhan](https://www.linkedin.com/in/shradhanjalipradhan/)
-- **Current Work:** Developing [GenAI](http://genai.example.com), a platform dedicated to generative AI technologies.
-- **Learning:** Currently deepening my understanding of Generative AI.
-- **Collaboration:** Open to collaborating on AI content creation, technical writing, and AI project development.
-- **Blogs:** I regularly write about my work related to AI. [Read my articles](http://medium.com/@pradhanshradhanjali300).
+## Education
 
-## Skills
+- **MSc in Applied Data Analytics** - Boston University, Massachusetts *(Expected Dec 2024)
 
-- **Languages & Libraries:** Python, R, Pandas, NumPy, Scikit-Learn, TensorFlow, Keras, NLTK, Spacy
-- **Data Analysis & Visualization:** Matplotlib, Seaborn, Tableau
-- **Machine Learning:** Regression, Classification, Clustering, Neural Networks
-- **MLOps & DevOps:** Continuous Integration, Continuous Deployment, Containerization
-- **Soft Skills:** Problem-solving, Critical Thinking, Effective Communication, Team Collaboration
 
 ## Professional Experience
 
@@ -32,9 +20,15 @@ I am passionate about leveraging artificial intelligence to drive innovation and
 - Implemented ML models for customer churn prediction and sales forecasting.
 - Conducted extensive data analysis to identify trends and drive company performance.
 
-## Education
 
-- **MSc in Applied Data Analytics** - Boston University, Massachusetts *(Expected Dec 2024)
+## Skills
+
+- **Languages & Libraries:** Python, R, Pandas, NumPy, Scikit-Learn, TensorFlow, Keras, NLTK, Spacy
+- **Data Analysis & Visualization:** Matplotlib, Seaborn, Tableau
+- **Machine Learning:** Regression, Classification, Clustering, Neural Networks
+- **MLOps & DevOps:** Continuous Integration, Continuous Deployment, Containerization
+- **Soft Skills:** Problem-solving, Critical Thinking, Effective Communication, Team Collaboration
+
 
 ## Featured Work
 
@@ -46,13 +40,6 @@ An engaging chatbot that utilizes the power of OpenAI's GPT-3 to simulate human-
 ### LLM-Powered Wikipedia Chat Assistant with RAG
 By leveraging LLMs, I have created a sophisticated Wikipedia search assistant that responds to user queries in a conversational manner, making information retrieval intuitive and user-friendly.
 
-## How to Reach Me
-
-I am always interested in hearing about new opportunities, collaborations, or just to chat about technology and AI. Feel free to reach out to me through the following channels:
-
-- **Email:** [edu.shradhanjali@gmail.com](mailto:edu.shradhanjali@gmail.com)
-- **LinkedIn:** [Shradhanjali Pradhan](https://www.linkedin.com/in/shradhanjalipradhan/)
-- **Twitter:** [@Shradha1405](https://twitter.com/Shradha1405)
 
 ## Additional Information
 
@@ -65,3 +52,16 @@ If you're interested in the more detailed aspects of my work or want to see my c
 I'm also open to feedback on my projects, so don't hesitate to raise an issue or submit a pull request!
 
 Thank you for taking the time to explore my work. Let's connect and make something great together!
+
+## How to Reach Me
+
+I am always interested in hearing about new opportunities, collaborations, or just to chat about technology and AI. Feel free to reach out to me through the following channels:
+
+- **Location:** United States
+- **Email:** [edu.shradhanjali@gmail.com](mailto:edu.shradhanjali@gmail.com)
+- **Twitter:** [@Shradha1405](https://twitter.com/Shradha1405)
+- **LinkedIn:** [Shradhanjali Pradhan](https://www.linkedin.com/in/shradhanjalipradhan/)
+- **Current Work:** Developing [GenAI](http://genai.example.com), a platform dedicated to generative AI technologies.
+- **Learning:** Currently deepening my understanding of Generative AI.
+- **Collaboration:** Open to collaborating on AI content creation, technical writing, and AI project development.
+- **Blogs:** I regularly write about my work related to AI. [Read my articles](http://medium.com/@pradhanshradhanjali300).
