@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## About Me
 
 I am passionate about leveraging artificial intelligence to drive innovation and make AI accessible to all. With a strong background in data analysis and a drive for continuous improvement, I aim to contribute to technological advancements and ethical AI development.
@@ -65,7 +64,6 @@ I am always interested in hearing about new opportunities, collaborations, or ju
 - **Current Work:** Developing [GenAI](http://genai.example.com), a platform dedicated to generative AI technologies.
 - **Learning:** Currently deepening my understanding of Generative AI.
 - **Collaboration:** Open to collaborating on AI content creation, technical writing, and AI project development.
-=======
 ## About Me
 
 I am passionate about leveraging artificial intelligence to drive innovation and make AI accessible to all. With a strong background in data analysis and a drive for continuous improvement, I aim to contribute to technological advancements and ethical AI development.
@@ -132,5 +130,4 @@ I am always interested in hearing about new opportunities, collaborations, or ju
 - **Current Work:** Developing [GenAI](http://genai.example.com), a platform dedicated to generative AI technologies.
 - **Learning:** Currently deepening my understanding of Generative AI.
 - **Collaboration:** Open to collaborating on AI content creation, technical writing, and AI project development.
->>>>>>> cb0812dc9c4f9262fd6bad91105b498c9f3df56e
 - **Blogs:** I regularly write about my work related to AI. [Read my articles](http://medium.com/@pradhanshradhanjali300).
