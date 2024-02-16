@@ -1,3 +1,29 @@
+<<<<<<< HEAD
+# _config.yml
+
+title: "Shradhanjali Pradhan"
+logo: /assets/images/profile-pic.png
+description: "Data visionary on a mission to transform lives through AI-driven innovation."
+url: "https://github.com/shradhanjalipradhan" # replace with your GitHub Pages URL
+permalink: "/:title/"
+theme: jekyll-theme-minimal
+
+author:
+  name: Shradhanjali Pradhan
+  bio: "BU Post Grad harnessing the power of data to conquer modern challenges. With 2+ years of industry expertise, I blend analytical prowess with a passion for crafting compelling technical content."
+  location: United States
+
+social:
+  - title: "GitHub"
+    url: "https://github.com/shradhanjalipradhan"
+  - title: "LinkedIn"
+    url: "https://www.linkedin.com/in/shradhanjalipradhan"
+  - title: "Website"
+    url: "www.shradhanjalipradhan.github.io"
+  # Add more social links as needed
+
+email: "edu.shradhanjali@gmail.com"
+=======
 # _config.yml
 
 title: "Shradhanjali Pradhan"
@@ -22,3 +48,4 @@ social:
   # Add more social links as needed
 
 email: "edu.shradhanjali@gmail.com"
+>>>>>>> cb0812dc9c4f9262fd6bad91105b498c9f3df56e
