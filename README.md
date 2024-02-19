@@ -6,7 +6,7 @@ I am passionate about leveraging artificial intelligence to drive innovation and
 
 ## Education
 
-- **MSc in Applied Data Analytics** - Boston University, Massachusetts *(Expected Dec 2024)
+- **MSc in Applied Data Analytics** - Boston University, Massachusetts (Expected Dec 2024)
 
 
 ## Professional Experience
