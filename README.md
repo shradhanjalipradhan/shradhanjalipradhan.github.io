@@ -36,11 +36,16 @@ I am passionate about leveraging artificial intelligence to drive innovation and
 
 Below are some of the projects that I'm most proud of. Each project not only showcases my technical skills but also my commitment to solving complex problems and delivering real value through data-driven innovation.
 
-### Chatbot with OpenAI GPT-3 using Flask
-An engaging chatbot that utilizes the power of OpenAI's GPT-3 to simulate human-like conversations. This project demonstrates my ability to integrate cutting-edge AI models into practical applications.
 
 ### LLM-Powered Wikipedia Chat Assistant with RAG
 By leveraging LLMs, I have created a sophisticated Wikipedia search assistant that responds to user queries in a conversational manner, making information retrieval intuitive and user-friendly.
+
+### Object Detection Using YOLOV8
+- Developed a robust web application leveraging YOLOv8 for real-time object detection in videos.
+- Implemented an intuitive user interface using Streamlit, enabling seamless interaction and analysis of uploaded content.
+- Integrated OpenCV for efficient image processing and accurate object detection functionalities.
+- Customized features such as class selection and bounding box visualization enhance user experience and facilitate precise analysis of detected objects.
+- Ensured scalability and flexibility for future enhancements by following best practices in coding and project organization.
 
 
 ## Additional Information
