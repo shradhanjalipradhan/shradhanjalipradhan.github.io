@@ -38,7 +38,11 @@ Below are some of the projects that I'm most proud of. Each project not only sho
 
 
 ### LLM-Powered Wikipedia Chat Assistant with RAG
-By leveraging LLMs, I have created a sophisticated Wikipedia search assistant that responds to user queries in a conversational manner, making information retrieval intuitive and user-friendly.
+- Developed a sophisticated conversational assistant empowered by cutting-edge LLM technologies and retrieval-based augmentation techniques.
+- Implemented the ReAct prompt framework to guide the assistant in structured question answering, ensuring accurate and informative responses.
+- Leveraged OpenAI's LLM frameworks along with Llamaindex and Chainlit for seamless integration of Wikipedia knowledge into the conversational flow.
+- Ensured user-friendly interaction by enabling users to ask questions and receive well-informed answers based on selected Wikipedia pages.
+- Employed advanced retrieval mechanisms and context-awareness to enhance response coherence and relevance, providing an enriched conversational experience.
 
 ### Object Detection Using YOLOV8
 - Developed a robust web application leveraging YOLOv8 for real-time object detection in videos.
@@ -47,6 +51,40 @@ By leveraging LLMs, I have created a sophisticated Wikipedia search assistant th
 - Customized features such as class selection and bounding box visualization enhance user experience and facilitate precise analysis of detected objects.
 - Ensured scalability and flexibility for future enhancements by following best practices in coding and project organization.
 
+### Chatbot with OpenAI GPT-3 using Flask
+- Developed a chatbot application utilizing Flask and integrated the powerful GPT-3 API for generating human-like responses to user queries.
+- Implemented features to maintain a comprehensive history of all user interactions with the GPT-3 API, ensuring transparency and traceability.
+- Leveraged the immense capabilities of GPT-3, trained on vast amounts of text data, to produce responses indistinguishable from human-written text.
+- Ensured seamless integration of the GPT-3 API into the Flask-based chatbot, providing users with a natural and engaging conversational experience.
+- Successfully deployed the chatbot application, empowering users to interact with a sophisticated AI-powered assistant capable of providing high-quality responses to a wide range of queries.
+
+### Automatic Speech Recognition With TensorFlow
+- Developed an end-to-end deep learning project focusing on audio data processing and visualization, leveraging TensorFlow and Python.
+- Implemented audio processing techniques and spectrogram calculation to preprocess and analyze audio data effectively.
+- Evaluated the model's performance using the Word Error Rate (WER) metric, ensuring accuracy and reliability of the final AI model.
+- Successfully deployed the trained AI model, providing a practical solution for audio data analysis and processing tasks.
+- Acquired valuable insights and hands-on experience in building real-world deep learning models for audio data applications through this comprehensive project.
+
+### Conversational Assistant Using Rasa
+- Developed a chatbot using Rasa, an open-source machine learning framework, by incorporating training data and visualizing chatbot stories for effective model training.
+- Generated training data through various methods, including creating files with messages and actions, as well as interactive chatting with the bot to label messages and actions.
+- Utilized Flask to build a simple application and seamlessly connected it with the chatbot backend, enabling smooth interaction and integration.
+- Gained practical experience in chatbot development, from data generation and model training to application deployment, through hands-on implementation of Rasa framework and Flask integration.
+- Demonstrated proficiency in leveraging machine learning frameworks and web development technologies to create functional and interactive chatbot applications, contributing to a holistic understanding of AI-powered conversational agents.
+
+### Build a Road Sign Recognition System with CNN
+- Extensive data collection: Acquired diverse dataset with various road signs, encompassing different lighting conditions, perspectives, and environmental settings.
+- Utilization of specialized deep learning architecture: Employed Convolutional Neural Networks (CNNs) as the core technological foundation for image recognition tasks.
+- Implementation of Python-based libraries: Leveraged TensorFlow to develop a robust road sign classification system.
+- Significant advancement in road safety: This project marks a pivotal step towards enhancing road safety and advancing the capabilities of autonomous vehicles and traffic management systems.
+- Contribution to automation: By automating the identification of road signs, the project aims to improve efficiency and accuracy in traffic management.
+
+### The Learning Agency Lab - PII Data Detection
+- Spearheaded the development of a cutting-edge solution for the Kaggle competition aimed at automating the detection and removal of personally identifiable information (PII) from student writing.
+- Orchestrated meticulous data preprocessing to standardize and refine the textual data, ensuring optimal performance of subsequent algorithms.
+- Leveraged advanced techniques such as Named Entity Recognition (NER) and machine learning models to accurately identify and categorize PII entities within the text.
+- Implemented robust rule-based filtering and pattern matching algorithms to effectively remove sensitive information while preserving the integrity and coherence of the educational content.
+- Demonstrated exceptional proficiency in testing, refining, and fine-tuning the developed solution, resulting in a high-performing system poised to make a significant impact in the realms of privacy protection and educational data utilization.
 
 ## Additional Information
 
@@ -68,6 +106,7 @@ I am always interested in hearing about new opportunities, collaborations, or ju
 - **Email:** [edu.shradhanjali@gmail.com](mailto:edu.shradhanjali@gmail.com)
 - **Twitter:** [@Shradha1405](https://twitter.com/Shradha1405)
 - **LinkedIn:** [Shradhanjali Pradhan](https://www.linkedin.com/in/shradhanjalipradhan/)
-- **Current Work:** Developing [GenAI](http://genai.example.com), a platform dedicated to generative AI technologies.
+- **Github:** [shradhanjalipradhan](https://github.com/shradhanjalipradhan)
+- **Kaggle:** [shradhanjalipradhan](https://www.kaggle.com/shradhanjalipradhan)
 - **Learning:** Currently deepening my understanding of Generative AI.
 - **Collaboration:** Open to collaborating on AI content creation, technical writing, and AI project development.
