@@ -1,4 +1,4 @@
-## About Me
+## Hey!!
 
 <p align="justify">
 I am passionate about leveraging artificial intelligence to drive innovation and make AI accessible to all. With a strong background in data analysis and a drive for continuous improvement, I aim to contribute to technological advancements and ethical AI development.
