@@ -1,7 +1,10 @@
 ## About Me
 
 <p align="justify">
-I am passionate about leveraging artificial intelligence to drive innovation and make AI accessible to all. With a strong background in data analysis and a drive for continuous improvement, I aim to contribute to technological advancements and ethical AI development.
+I am a **passionate AI/ML professional** with **over 2 years of experience** in developing **scalable AI solutions, data-driven insights, and end-to-end machine learning pipelines**. My expertise lies in **data engineering, model development, and MLOps**, enabling me to build robust AI systems that drive **business impact and innovation**.  
+
+I am committed to **democratizing AI** by making cutting-edge technologies accessible and ethical. With a strong foundation in **data analysis, deep learning, and cloud-based ML solutions**, I continuously strive to enhance AI capabilities through research, optimization, and real-world applications. 🚀  
+
 </p>
 
 ## Education
@@ -27,6 +30,11 @@ I am passionate about leveraging artificial intelligence to drive innovation and
 *(August 2021- June 2022)*
 - Implemented ML models for customer churn prediction and sales forecasting.
 - Conducted extensive data analysis to identify trends and drive company performance.
+
+### Applied Machine Learning Student Intern at Applied AI, Remote
+*(July 2021- August 2022)*
+- Moderated machine learning assignments for 200+ students, ensuring consistent quality and timely feedback.
+- Designed exercises on supervised learning and neural networks, improving students' understanding by 30%.
 
 ## 🚀 Skills
 
@@ -56,7 +64,7 @@ I am passionate about leveraging artificial intelligence to drive innovation and
 - **CI/CD & Automation:** Jenkins, Docker, Kubernetes, Airflow, Terraform  
 
 ### 🏆 Soft Skills  
-- **Problem-Solving | Critical Thinking | Effective Communication | Team Collaboration | Agile Methodologies**  
+- **Problem-solving, Critical Thinking, Effective Communication, Team Collaboration, Agile Methodologies**  
 
 
 ## Featured Work
@@ -84,13 +92,35 @@ This project demonstrates a serverless data pipeline using AWS S3, SNS, SQS, Lam
 
 This project provides hands-on experience in **cloud automation, serverless workflows, and scalable data processing**. 🚀
 
+# 📌 AWS Glue & Snowflake ETL Pipeline  
+
+## 🚀 Project Overview  
+This project builds a **scalable ETL pipeline** using **AWS Glue, S3, dbt, and Snowflake** to extract data from an **external API**, store it in **S3**, and automate transformations with **dbt** before loading into **Snowflake**.  
+
+### ✅ Key Learning Outcomes:
+- **Extract and store API data** using **AWS Glue** and **S3**.  
+- **Automate data transformation** with **dbt macros** in Snowflake.  
+- **Implement multi-layered data modeling** (**raw → transform → mart**).  
+- **Set up secure IAM roles & integrations** for AWS and Snowflake.  
+- **Deploy an end-to-end cloud-based ETL pipeline** for analytics.
+
+## 🔧 Project Steps  
+1. **Set Up IAM Roles** – Grant Glue and Snowflake access permissions.  
+2. **Extract & Store Data** – Use **AWS Glue** to pull API data into **S3**.  
+3. **Integrate Snowflake & AWS** – Configure secure data access.  
+4. **Transform Data with dbt** – Build **raw, transform, and mart** models.  
+5. **Deploy dbt Environment** – Automate transformations for scalable workflows.  
+
+This project provides **real-world experience in data extraction, ETL automation, and cloud-based data warehousing**. 🚀  
+
+
 
 ### LLM-Powered Wikipedia Chat Assistant with RAG
 - Developed a sophisticated conversational assistant empowered by cutting-edge LLM technologies and retrieval-based augmentation techniques.
 - Implemented the ReAct prompt framework to guide the assistant in structured question answering, ensuring accurate and informative responses.
 - Leveraged OpenAI's LLM frameworks along with Llamaindex and Chainlit for seamless integration of Wikipedia knowledge into the conversational flow.
 - Ensured user-friendly interaction by enabling users to ask questions and receive well-informed answers based on selected Wikipedia pages.
-- Employed advanced retrieval mechanisms and context-awareness to enhance response coherence and relevance, providing an enriched conversational experience.
+- Employed advanced retrieval mechanisms and context awareness to enhance response coherence and relevance, providing an enriched conversational experience.
 
 ### Object Detection Using YOLOV8
 - Developed a robust web application leveraging YOLOv8 for real-time object detection in videos.
@@ -131,7 +161,7 @@ This project provides hands-on experience in **cloud automation, serverless work
 - Spearheaded the development of a cutting-edge solution for the Kaggle competition aimed at automating the detection and removal of personally identifiable information (PII) from student writing.
 - Orchestrated meticulous data preprocessing to standardize and refine the textual data, ensuring optimal performance of subsequent algorithms.
 - Leveraged advanced techniques such as Named Entity Recognition (NER) and machine learning models to accurately identify and categorize PII entities within the text.
-- Implemented robust rule-based filtering and pattern matching algorithms to effectively remove sensitive information while preserving the integrity and coherence of the educational content.
+- Implemented robust rule-based filtering and pattern-matching algorithms to effectively remove sensitive information while preserving the integrity and coherence of the educational content.
 - Demonstrated exceptional proficiency in testing, refining, and fine-tuning the developed solution, resulting in a high-performing system poised to make a significant impact in the realms of privacy protection and educational data utilization.
 
 ## Additional Information
@@ -148,7 +178,7 @@ Thank you for taking the time to explore my work. Let's connect and make somethi
 
 ## How to Reach Me
 
-I am always interested in hearing about new opportunities, collaborations, or just to chat about technology and AI. Feel free to reach out to me through the following channels:
+I am always interested in hearing about new opportunities, and collaborations, or just chatting about technology and AI. Feel free to reach out to me through the following channels:
 
 - **Location:** United States
 - **Email:** [edu.shradhanjali@gmail.com](mailto:edu.shradhanjali@gmail.com)
@@ -156,5 +186,5 @@ I am always interested in hearing about new opportunities, collaborations, or ju
 - **LinkedIn:** [Shradhanjali Pradhan](https://www.linkedin.com/in/shradhanjalipradhan/)
 - **Github:** [shradhanjalipradhan](https://github.com/shradhanjalipradhan)
 - **Kaggle:** [shradhanjalipradhan](https://www.kaggle.com/shradhanjalipradhan)
-- **Learning:** Currently deepening my understanding of Generative AI.
+- **Learning:** Currently deepening my understanding of Generative AI, Agents.
 - **Collaboration:** Open to collaborating on AI content creation, technical writing, and AI project development.
