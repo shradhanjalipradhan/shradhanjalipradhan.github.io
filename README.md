@@ -6,35 +6,83 @@ I am passionate about leveraging artificial intelligence to drive innovation and
 
 ## Education
 
-- **MSc in Applied Data Analytics** - Boston University, Massachusetts (Expected Dec 2024)
+- **MSc in Applied Data Analytics** - Boston University, Massachusetts (January 2025)
 
 
 ## Professional Experience
 
 ### AI/ML Engineer at Steradian, Bhubaneswar
-*(Nov 2022 – Mar 2023)*
+*(June 2022- July 2023)*
 - Enhanced data quality for medical datasets, improving accuracy and reliability.
 - Optimized IoT data analysis, leading to a 30% increase in operational efficiency.
 - Developed a machine learning-based recommendation engine, boosting cross-selling by 40%.
 
+### Research and Development Engineer at Innotrat, Remote
+*(November 2022- August 2023)*
+- Built a document classification system using BERT and Generative AI, categorizing files with improved precision.
+- Performed object detection on drawings with YOLOv5OBB, achieving mAP >85% across 200+ labeled drawings.
+- Trained an OCR model using PaddleOCR to recognize handwritten text, achieving an hmean/F1 score >90%.
+
 ### Data Analyst Intern at Remotecare, Chennai
-*(July 2022 – Nov 2022)*
+*(August 2021- June 2022)*
 - Implemented ML models for customer churn prediction and sales forecasting.
 - Conducted extensive data analysis to identify trends and drive company performance.
 
+## 🚀 Skills
 
-## Skills
+### 🛠️ Programming Languages & Tools  
+- **Languages:** Python, SQL, R, PySpark, MATLAB, Bash, C, HTML, CSS  
+- **Libraries & Frameworks:** Pandas, NumPy, Scikit-Learn, TensorFlow, Keras, PyTorch, NLTK, Spacy, OpenCV  
 
-- **Languages & Libraries:** Python, R, Pandas, NumPy, Scikit-Learn, TensorFlow, Keras, NLTK, Spacy
-- **Data Analysis & Visualization:** Matplotlib, Seaborn, Tableau
-- **Machine Learning:** Regression, Classification, Clustering, Neural Networks
-- **MLOps & DevOps:** Continuous Integration, Continuous Deployment, Containerization
-- **Soft Skills:** Problem-solving, Critical Thinking, Effective Communication, Team Collaboration
+### 📊 Data Engineering  
+- **ETL & Data Pipelines:** Apache Spark, Airflow, dbt, Kafka, Luigi  
+- **Data Warehousing & Storage:** AWS Glue, Redshift, S3, EMR, Snowflake, Google BigQuery, Azure Synapse  
+- **Big Data Technologies:** Hadoop, Apache Spark, Data Lakes, Delta Lake  
+- **Version Control & CI/CD:** Git, GitHub Actions, Docker, Kubernetes, Terraform  
+
+### 🤖 Machine Learning & AI  
+- **Traditional ML:** Regression, Classification, Clustering, Random Forest, Gradient Boosting, SVM  
+- **Deep Learning:** CNNs, GANs, LSTMs, Transformer Models (BERT, GPT), Reinforcement Learning  
+- **Feature Engineering & Model Optimization:** Hyperparameter Tuning, Cross-Validation, Model Explainability  
+
+### 📈 Data Analysis & Visualization  
+- **Exploratory Data Analysis (EDA):** Pandas, NumPy, Scipy, Statsmodels  
+- **Data Visualization:** Matplotlib, Seaborn, Power BI, Tableau  
+- **Statistical Analysis:** Probability, Hypothesis Testing, A/B Testing  
+
+### ⚙️ MLOps & DevOps  
+- **Cloud Platforms:** AWS, GCP, Azure  
+- **Model Deployment:** Flask, FastAPI, TensorFlow Serving, MLflow, Vertex AI, Sagemaker  
+- **CI/CD & Automation:** Jenkins, Docker, Kubernetes, Airflow, Terraform  
+
+### 🏆 Soft Skills  
+- **Problem-Solving | Critical Thinking | Effective Communication | Team Collaboration | Agile Methodologies**  
 
 
 ## Featured Work
 
-Below are some of the projects that I'm most proud of. Each project not only showcases my technical skills but also my commitment to solving complex problems and delivering real value through data-driven innovation.
+Below are some of the projects I'm most proud of. Each showcases my technical skills and commitment to solving complex problems and delivering real value through data-driven innovation.
+
+# 📌 AWS Serverless Data Pipeline
+
+## 🚀 Project Overview  
+This project demonstrates a serverless data pipeline using AWS S3, SNS, SQS, Lambda, Glue, and Athena to automate cross-region data migration and querying. The pipeline transfers data from an S3 bucket in one region to another, automates schema detection with Glue, and enables querying with Athena.
+
+### ✅ Key Learning Outcomes:
+- Migrate data across **S3 buckets** using **SNS, SQS, and Lambda**.
+- Automate workflows with **AWS Lambda** for event-driven processing.
+- Catalog data in **AWS Glue** and query it via **AWS Athena**.
+- Implement **cross-region data management** with **serverless architectures**.
+- Build a **scalable and automated data processing pipeline** in AWS.
+
+## 🔧 Project Steps
+1. **Create S3 Buckets** – Set up source and target buckets for data transfer.  
+2. **Configure SNS & SQS** – Set up notifications and event-driven triggers.  
+3. **Develop Lambda Function** – Automate data transfer and trigger Glue Crawler.  
+4. **Run Glue Crawler** – Detect schema and register data in the **Glue Catalog**.  
+5. **Query Data in Athena** – Use **SQL queries** to analyze the transferred data.
+
+This project provides hands-on experience in **cloud automation, serverless workflows, and scalable data processing**. 🚀
 
 
 ### LLM-Powered Wikipedia Chat Assistant with RAG
