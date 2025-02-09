@@ -1,9 +1,9 @@
-## About Me
+## About Me  
 
 <p align="justify">
-I am a **passionate AI/ML professional** with **over 2 years of experience** in developing **scalable AI solutions, data-driven insights, and end-to-end machine learning pipelines**. My expertise lies in **data engineering, model development, and MLOps**, enabling me to build robust AI systems that drive **business impact and innovation**.  
+I am a <span style="color:blue; font-weight:bold;">passionate AI/ML professional</span> with <span style="color:blue; font-weight:bold;">2+ years of experience</span> in **scalable AI solutions, data engineering, and MLOps**. I specialize in **building intelligent systems** that drive **business impact and innovation**.  
 
-I am committed to **democratizing AI** by making cutting-edge technologies accessible and ethical. With a strong foundation in **data analysis, deep learning, and cloud-based ML solutions**, I continuously strive to enhance AI capabilities through research, optimization, and real-world applications. 🚀  
+Committed to <span style="color:blue; font-weight:bold;">democratizing AI</span>, I focus on **ethical AI development, deep learning, and cloud-based ML solutions**, continuously optimizing models for real-world applications. 🚀  
 
 </p>
 
